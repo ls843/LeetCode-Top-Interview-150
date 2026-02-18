@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
