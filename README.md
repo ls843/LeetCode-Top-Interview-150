@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
