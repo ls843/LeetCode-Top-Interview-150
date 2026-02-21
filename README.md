@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Counting Sort
 |  |
 | ------- |
