@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
@@ -143,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0101-symmetric-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
