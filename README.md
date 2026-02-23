@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
