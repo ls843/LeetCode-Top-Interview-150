@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
