@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0177-nth-highest-salary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
