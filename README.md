@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Tree
 |  |
 | ------- |
