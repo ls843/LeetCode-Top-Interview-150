@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
